@@ -1,0 +1,8 @@
+print(2*6)
+print(5+2)
+print(5-6)
+print(49/7)
+print(56%3)
+print(49//7)
+print(2**3)
+print(2+5-9*8/2+2**3+(2*3)+2)

@@ -1,0 +1,5 @@
+print("my name is kumail")
+print("my full name is kumail murtaza")
+print('trying single quote')
+print("trying double quote")
+print('''trying triple quotes ''')
